@@ -1,3 +1,3 @@
 print('Hello world, i am Blastoff.')
-var = open(mode='x', file="README.md")
-open('README.md')
+var = open(mode='x', file="test_py")
+open('test_py')
